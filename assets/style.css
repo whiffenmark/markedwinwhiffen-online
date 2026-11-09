@@ -28,3 +28,9 @@ footer{padding:28px 0;font-size:13px;color:var(--mut)}
 .body{max-width:720px;margin-top:8px}.body p{margin:0 0 14px;color:var(--ink)}
 .disc{font-size:13px;color:var(--mut);max-width:900px}
 .contact{padding:36px 0}.contact h2{font-size:30px}
+
+.card{display:flex;flex-direction:column}
+.card h3{line-height:1.25}
+.card p{flex:1}
+.card a{margin-top:auto}
+.grid .card h3{margin:8px 0}
